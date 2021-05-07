@@ -7,7 +7,7 @@ git의 history를 깔끔하게 관리하기 위해서는 팀별로 정해진 규
 
 # 1. Git branch 전략
 
-![git branch 전략](../Settings/99Img/git-branch.png)
+![git branch 전략](git-branch.png)
 
 ## 1-1. master 브랜치로부터 develop 브랜치 생성
 ## 1-2. 모든 기능 개발은 develop 브랜치에서 feature 브랜치를 생성한 후 진행
